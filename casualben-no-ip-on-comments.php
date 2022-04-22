@@ -3,7 +3,7 @@
  * Plugin Name: CasualBen No IP on Comments
  * Plugin URI: https://github.com/DasBen/CasualBen-No-IP-On-Comments
  * Description: Overwrites the saved IP Addresses on Comments to be compliant.
- * Version: 1.0.0
+ * Version: 0.0.0 
  * Author: Benjamin Pahl - CasualBen
  * Author URI: https://www.casual-ben.com
  *
