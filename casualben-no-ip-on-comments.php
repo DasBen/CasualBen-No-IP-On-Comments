@@ -5,7 +5,7 @@
  * Update URI: https://github.com/DasBen/CasualBen-No-IP-On-Comments
  * Description: Overwrites the saved IP Addresses on Comments to be compliant.
  * Text Domain: casualben-no-ip-on-comments
- * Version: 0.0.0 
+ * Version: 0.0.1
  * Author: Benjamin Pahl - CasualBen
  * Author URI: https://www.casual-ben.com
  *
